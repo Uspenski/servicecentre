@@ -1,1 +1,5 @@
 ajax\action.ink
+general.ink
+classes\*.tmp
+Images\*
+slide_img\*
